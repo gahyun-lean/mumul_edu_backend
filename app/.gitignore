@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# Virtualenv
+.venv/
+venv/
+ENV/
+
+# 환경 변수/설정
+.env
+.env.*
+
+# pytest/mypy
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# 기타
+*.sqlite3
+*.db
+*.bak
+*.swp
+
+# Google Cloud
+*.json
+
+# Supabase
+.supabase/
+
+# Coverage
+htmlcov/
+.coverage
+
+# Test output
+coverage.xml
+
+# IDE
+.idea/
+*.iml
+
+# Node (혹시 프론트엔드 포함시)
+node_modules/
+
+# Build
+build/
+dist/

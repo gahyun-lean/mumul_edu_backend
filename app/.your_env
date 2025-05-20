@@ -1,0 +1,14 @@
+# key 정보는 노션 Mumul Edu > Keys 안에 있습니다.
+# Supabase 
+SUPABASE_URL=Your Supabase URL
+SUPABASE_SERVICE_ROLE_KEY=Your Supabase Service Role Key
+SUPABASE_ANON_KEY=Your Supabase Anon Key
+
+# Dify
+DIFY_API_KEY=Your Dify API Key
+
+# OpenAI
+OPENAI_API_KEY=Your OpenAI API Key
+
+# Google Cloud
+GOOGLE_APPLICATION_CREDENTIALS=Your Google Application Credentials
